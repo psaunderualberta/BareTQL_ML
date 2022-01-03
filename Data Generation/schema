@@ -1,0 +1,3 @@
+table: open description? row* close
+open: "{|"
+close: "|}"
