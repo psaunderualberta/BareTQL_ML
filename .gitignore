@@ -202,3 +202,8 @@ cython_debug/
 
 # unneeded files
 .vscode/
+
+# Saved models & loss graphs
+*.pt
+*.png
+*.jpg
